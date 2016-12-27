@@ -11,14 +11,13 @@ public class BinaryTree {
 		Node n3=new Node(4,"left2");
 		Node n4=new Node(5,"right2");
 		Node n5=new Node(6,"left3");
-		Node n6=new Node(7,"right3");
-		Node n7=new Node(8,"left4");
-		Node n8=new Node(9,"right4");
+		
 		n1.leftChild=n3;
 		n1.rightChild=n4;
 		n2.leftChild=n5;
 		n2.rightChild=n5;
 		
+ 	 	
 		
 		
 		
